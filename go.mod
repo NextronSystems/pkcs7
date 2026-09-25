@@ -1,3 +1,3 @@
-module github.com/secDre4mer/pkcs7
+module github.com/NextronSystems/pkcs7
 
 go 1.11
